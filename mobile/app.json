@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "CareLoop",
+    "slug": "careloop",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#F4F1EC"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.careloop.app"
+    },
+    "android": {
+      "package": "com.careloop.app"
+    }
+  }
+}
